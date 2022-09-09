@@ -1,16 +1,16 @@
 {
-  "name": "bitandbang",
-  "version": "2.1.1",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "gingerlee",
+  "version": "0.1",
+  "description": "A personal card for Ginger Lee Kretschmer (@gingerlee)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "gingerlee": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/gingerlee/gingerleecard.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://gingerlee.dev",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
